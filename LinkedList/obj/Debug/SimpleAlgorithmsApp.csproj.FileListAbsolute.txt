@@ -1,0 +1,14 @@
+D:\СД\2018\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+D:\СД\2018\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+D:\СД\2018\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+D:\СД\2018\LinkedList\LinkedList\obj\Debug\SimpleAlgorithmsApp.csprojAssemblyReference.cache
+D:\СД\2018\LinkedList\LinkedList\obj\Debug\SimpleAlgorithmsApp.csproj.CoreCompileInputs.cache
+D:\СД\2018\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+D:\СД\2018\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+C:\LinkedList (1)\LinkedList\bin\Debug\LinkedList.exe.config
+C:\LinkedList (1)\LinkedList\bin\Debug\LinkedList.exe
+C:\LinkedList (1)\LinkedList\bin\Debug\LinkedList.pdb
+C:\LinkedList (1)\LinkedList\obj\Debug\SimpleAlgorithmsApp.csprojAssemblyReference.cache
+C:\LinkedList (1)\LinkedList\obj\Debug\SimpleAlgorithmsApp.csproj.CoreCompileInputs.cache
+C:\LinkedList (1)\LinkedList\obj\Debug\LinkedList.exe
+C:\LinkedList (1)\LinkedList\obj\Debug\LinkedList.pdb
